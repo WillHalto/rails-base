@@ -1,0 +1,13 @@
+# .railsrc
+--api
+--database=postgresql
+
+--skip-git
+--skip-action-cable
+--skip-sprockets
+--skip-coffee
+--skip-javascript
+--skip-turbolinks
+--skip-test
+
+--force
