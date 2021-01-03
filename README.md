@@ -1,6 +1,6 @@
 # rails-base
 
-Starter config for a rails API with Docker.
+Starter config for a Dockerized rails API with a postgres db.
 
 Setup:
 Make sure to replace "app" in the dockerfile with the name of the application
