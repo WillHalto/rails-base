@@ -3,7 +3,7 @@
 Starter config for a Dockerized rails API with a postgres db.
 
 Setup:
-Make sure to replace "app" in the dockerfile with the name of the application
+Make sure to replace "app" in the dockerfile, docker-compose.yml, and entrypoint with the name of the application.
 And when database.yml is created by rails new, make sure the db names are correct there as well. (Pass in the app name to `rails new` if you want, otherwise the . syntax below will use the folder name as the app name).
 
 ```
